@@ -1,3 +1,4 @@
+/*
 package com.massivedynamic.spring.crm.rest;
 
 import com.massivedynamic.spring.crm.model.Customer;
@@ -63,3 +64,4 @@ public class CustomerController {
         }
     }
 }
+*/
